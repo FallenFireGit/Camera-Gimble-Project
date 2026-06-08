@@ -1,4 +1,7 @@
 # Camera-Gimble-Project
+<img width="1528" height="1060" alt="image" src="https://github.com/user-attachments/assets/11cef85a-0fe3-4960-9a8c-bc3e42736842" />
+<img width="1125" height="1146" alt="image" src="https://github.com/user-attachments/assets/f59c15d6-1dff-4de3-95c6-2437083d1dbc" />
+
 
 ## General Info
 
@@ -7,6 +10,9 @@ The original intent of this project was to make an actual camera gimbal for my p
 Anyways, here is (hopefully) a realistic model of a camera gimbal that someone in the future can take inspiration from if they ever want to design one themselves. Also, I am well aware that the way I made this in OnShape with multiple part studios is not optimal. I honestly don't know what was going through my mind when doing that because I usually only make one. 
 
 Since I wasn't sure if this was a hardware project or just a CAD one at first, I wasn't sure what I had to do, since this way of journaling is relatively new to me. I'm used to the journaling where you just jot down what you did every session on Hack Clubs' website, not on GitHub. When I realized this (which was probably too late), I uploaded some of the Gimbal models that you can see in version history. 
+
+Link to the OnShape Document (export enabled):
+https://cad.onshape.com/documents/b1ceab8a322ea1bc3ce5f64a/w/db9770c06cde93337911618b/e/719e175e81a07b674fcb43b0?renderMode=0&uiState=6a26145fbac316f536a1970e
 
 ## Building The Project
 
@@ -38,5 +44,9 @@ If you actually aim to build this project (which I unfortunately can't 😭), he
 5) Secure everything once more with the screws and close up the housing for the main UI box.
 6) Glue the handle to the UI box
 7) screw the servo screws in and anything else that is not screwed in.
+
+## Contributors
+
+I haven't written any of the code that actually turns the inputs into functional servo movement. If someone wants to contribute in that way, feel free to make a request. Also, you would probably have to run some sort of filter for the IMU because, if I remember correctly, the 6050 is notoriously finicky sometimes. Also, things like PID and the whole shebang, I haven't done at all. I'm most familiar with CAD and hardware, and software is a whole other monster I am still learning how to do.
 
 
