@@ -1,5 +1,5 @@
 # < 6 / 7 / 2026
-- Spent roughly 5 hours researching/finding the parts I would need. This includes but is not limited to the joystick, the display, the IMU, the ESP32 module (with battery charging compatibility), and a battery
+- Spent roughly 5 hours researching and Cadding the parts I would need. This includes but is not limited to the joystick, the display, the IMU, the ESP32 module (with battery charging compatibility), and a battery
 -  Completed the handle, CAD. The ESP32 module that I will be using is the XIAO SEEED Studio, which has a native battery charging support circuit. I created the cap so that it slides in, and then an end cap secures it with some M4 screws.
 -  Began working/finished the case for the UI, which includes the joystick to control the various angles of the servos to make certain camera movements. This includes yaw and pitch.
 -  Currently, nothing is optimized for 3D printing. Which will definitely be something I will improve upon in the future
@@ -8,4 +8,7 @@
 # 6 / 7 / 2026
 - Completed the friction fit/glue connection between the hand and the main user interface
 - Completed the servo mount for the pitch direction of the camera gimbal
+- Finished the screw (I hope it works) to tighten the phone laterally
+- Completed the flexible hook at the bottom that is designed to flex slightly and clip onto the bottom of the phone, securing it vertically (except upward).
+- Finishing touches like filleting certain features and adding text to help clarify certain things, like where the cables need to go (if you were to actually make it)
   
